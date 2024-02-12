@@ -1,0 +1,18 @@
+.bg-gradient {
+    // background: linear-gradient(to right, #8a2be2, #ff69b4); 
+    background: #666666;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    height: 100vh; /* Make sure the container takes up the full height of the viewport */
+  }
+  
+  .centered-grid {
+    max-width: 100%; /* Ensure the grid can shrink if the viewport is narrower than its content */
+  }
+
+    
